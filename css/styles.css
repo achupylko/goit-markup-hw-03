@@ -1,0 +1,130 @@
+/* #region Common */
+body {
+  background-color: #fff;
+  color: #434455;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.logo {
+  color: #4d5ae5;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  line-height: 1.17;
+  text-transform: uppercase;
+}
+
+.dark {
+  color: #2e2f42;
+}
+
+.light {
+  color: #f4f4fd;
+}
+
+.section-title {
+  color: #2e2f42;
+  font-size: 36px;
+  letter-spacing: 0.02em;
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.card {
+  background-color: #fff;
+}
+
+.card-title {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  line-height: 1.2;
+}
+
+.card-description {
+}
+/* #endregion */
+
+/* #region Header */
+
+.nav-link {
+  color: #2e2f42;
+  font-weight: 500;
+}
+
+.contacts {
+  font-style: normal;
+}
+
+.contacts-item {
+  color: currentColor;
+}
+
+.nav-link:hover,
+.nav-link:focus,
+.contacts-item:hover,
+.contacts-item:focus {
+  color: #404bbf;
+}
+/* #endregion */
+
+/* #region Hero */
+.hero {
+  background-color: #2e2f42;
+}
+
+.hero-title {
+  color: #fff;
+  font-size: 56px;
+  letter-spacing: 0.02em;
+  line-height: 1.07;
+  text-align: center;
+}
+
+.btn {
+  background-color: #4d5ae5;
+  color: #fff;
+  cursor: pointer;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  line-height: 1.5;
+}
+
+.btn:hover,
+.btn:focus {
+  background-color: #404bbf;
+}
+/* #endregion */
+
+/* #region Benefits */
+
+/* #endregion */
+
+/* #region Team */
+.team {
+  background-color: #f4f4fd;
+}
+/* #endregion */
+
+/* #region Footer */
+.footer {
+  background-color: #2e2f42;
+}
+
+.footer-text {
+  color: #f4f4fd;
+}
+/* #endregion */
